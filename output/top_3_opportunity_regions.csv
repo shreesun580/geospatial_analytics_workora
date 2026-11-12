@@ -1,0 +1,4 @@
+RegionID,City,State,MonthlySearchDemand,ExistingCompetitors,LeadConversionRate,EstimatedAcquisitionCostINR,Opportunity_Score
+REG-0206,Kochi,Kerala,1787,1,0.13,407,90.88
+REG-0353,Kolkata,West Bengal,1799,1,0.14,727,89.47
+REG-0373,Chennai,Tamil Nadu,1831,5,0.12,228,86.3
